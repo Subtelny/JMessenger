@@ -1,7 +1,6 @@
 # JMessenger
-Simple project only to show my experience with CQRS, Event Sourcing and Domain-Driven Design.
-Thanks CQRS and ES we can easily cut the project into seperatelly projects and make them as microservices. Using (for example) RabbitMq we would create connection between all microservices
-which will be shouting our events :)
+Simple project only to show up my experience with CQRS, Event Sourcing and Domain-Driven Design.
+Thanks CQRS and ES we can easily cut the project into seperatelly projects and make them as microservices. We would create connection between all microservices using (for example) RabbitMq which will be shouting our events :)
 
 ## Todo
 In nearly future I would to add
